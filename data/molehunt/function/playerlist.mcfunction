@@ -1,0 +1,2 @@
+tellraw @s [ {"text":"Moles: "}, {"selector":"@a[tag=Mole,tag=!Dead]","color":"red"}, {"text":" "}, {"selector":"@a[tag=Mole,tag=Dead]","strikethrough":true,"color":"dark_red"}, {"text":"\nSurvivors: "}, {"selector":"@a[tag=Survivor,tag=!Dead]","color":"green"}, {"text":" "}, {"selector":"@a[tag=Survivor,tag=Dead]","strikethrough":true,"color":"dark_green"}]
+scoreboard players reset @s PlayerList
