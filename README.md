@@ -1,7 +1,7 @@
 # Molehunt-Universal-Datapack
 A minecraft datpack for the minecraft minigame Molehunt.
 
-
+This minigame was created by [Piffin380](https://www.youtube.com/@Piffin380). I am simply a fan recreating the game in datapack form for others to enjoy.
 
 
 
